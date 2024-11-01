@@ -1,7 +1,7 @@
 # Automated ETL and Visualization of Real Estate Using Airflow and Power BI
 
 
-![](./src/logo.png)
+<img src="src/logo.png" alt="Alt text" width="300"/>
 
 ## Table of Contents
 
@@ -42,17 +42,17 @@ This project aims to automate the process of extracting, transforming, and loadi
 ## Usage
 ### Raw Data
 
-![](src/data1.jpg)
+![](src/data1.png)
 
 ### Transformed Data
-![](./src/data2.jpg)
+![](./src/data2.png)
 
 
 ### Dashboard Power BI
 
-![](./src/vis1.jpg)
-![](./src/vis2.jpg)
-![](./src/vis3.jpg)
+![](./src/vis1.png)
+![](./src/vis2.png)
+![](./src/vis3.png)
 
 ## Conclusion
 - The purpose of this project is to utilize ETL processes to continuously collect and update match results. This enables comprehensive analysis of the real estate market, providing an up-to-date overview of the current matches.
