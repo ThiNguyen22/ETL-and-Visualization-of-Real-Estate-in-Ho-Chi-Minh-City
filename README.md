@@ -1,4 +1,4 @@
-# Automated ETL and Visualization of Real Estate Using Airflow and Apache Superset
+# Automated ETL and Visualization of Real Estate Using Airflow and Power BI
 
 
 ![](./src/logo.png)
@@ -42,7 +42,7 @@ This project aims to automate the process of extracting, transforming, and loadi
 ## Usage
 ### Raw Data
 
-![](./src/data1.jpg)
+![](src/data1.jpg)
 
 ### Transformed Data
 ![](./src/data2.jpg)
